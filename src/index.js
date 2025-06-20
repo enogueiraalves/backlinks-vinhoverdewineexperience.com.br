@@ -4,7 +4,7 @@ export default {
     const path = url.pathname
 
     const redirects = {
-      "/": "https://vinhoverdewineexperience.com.br"
+        "/": "https://bargenial.com.br/vinho-verde-wine-experience/"
     }
 
     if (redirects[path]) {
